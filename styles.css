@@ -146,6 +146,12 @@ main { flex: 1; }
 }
 
 
+.video-presented {
+  width: 100%;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
 .video-presented video {
   display:block;
   width: 100%;
