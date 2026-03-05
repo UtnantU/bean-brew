@@ -145,6 +145,14 @@ main { flex: 1; }
   font-size: 1.05rem;
 }
 
+
+.video-presented video {
+  display:block;
+  width: 100%;
+  aspect-ratio:16/9;
+
+}
+
 /* Header / Nav */
 .site-header {
   position: sticky;
